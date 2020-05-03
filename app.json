@@ -1,0 +1,15 @@
+{
+    "id": "c47d93b2-458e-4b5c-be6a-0a5549fa5567",
+    "version": "1.0.0",
+    "requiredApiVersion": "^1.7.2",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Thomas Gardner",
+        "homepage": "https://github.com/tgardner/Rocket.Chat.App-Skype",
+        "support": "https://github.com/tgardner/Rocket.Chat.App-Skype/issues"
+    },
+    "name": "Skype",
+    "nameSlug": "skype",
+    "classFile": "SkypeApp.ts",
+    "description": "Start a Skype from inside Rocket.Chat with a slash command."
+}
