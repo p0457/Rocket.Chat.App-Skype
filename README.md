@@ -2,6 +2,10 @@
 
 Start a Skype call from inside Rocket.Chat with a slash command.
 
+# Deprecated
+
+This project will no longer be maintained by me, I have retired my Rocket.Chat server in favor of a Matrix Synapse server.
+
 ## Configuration
 
 Type `/skype username` to generate a call-me URL.
